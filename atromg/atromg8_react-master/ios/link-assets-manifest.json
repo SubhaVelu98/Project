@@ -1,0 +1,165 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "d888202c90dbed66b8ceac6b167f308d3d07097f"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Bold.ttf",
+      "sha1": "7207094ca288c2deb3b77eaf0482bdc4b167166e"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Light.ttf",
+      "sha1": "3a6578f2a7d2062ba51230b4cdd55cafebe8de1c"
+    },
+    {
+      "path": "assets/fonts/Quicksand-Regular.ttf",
+      "sha1": "e1d9e5a214878cbcaab1694a238df190b51fe2ae"
+    },
+    {
+      "path": "assets/fonts/README",
+      "sha1": "1ef10edd7f0971706caa5e05d466ac611492ffd0"
+    },
+    {
+      "path": "assets/fonts/SIL Open Font License.txt",
+      "sha1": "9924987dc7a7428e38a7acf502ffa48b1966dcc7"
+    },
+    {
+      "path": "assets/fonts/cryptofont.ttf",
+      "sha1": "5f43ac66c7c990625a794da1397168e919213520"
+    },
+    {
+      "path": "assets/fonts/icomoon.ttf",
+      "sha1": "d6299e418421c534722452b8d60e4346434bf69f"
+    },
+    {
+      "path": "assets/fonts/quicksand.jpg",
+      "sha1": "7f4a5040ac8f1ca952dd43074ef231cb674ea921"
+    },
+    {
+      "path": "assets/fonts/specimenposter_4967.jpg",
+      "sha1": "21eab98e04bb47b72545e1ac912bd1bac967165f"
+    },
+    {
+      "path": "assets/fonts/static/Quicksand-Bold.ttf",
+      "sha1": "6d69bd5ae0c78661ca4eed9d7188872719312902"
+    },
+    {
+      "path": "assets/fonts/static/Quicksand-Light.ttf",
+      "sha1": "033e22c03595c5972edbb588526fd6ea06eee011"
+    },
+    {
+      "path": "assets/fonts/static/Quicksand-Medium.ttf",
+      "sha1": "b59c5c150968007e8bef29fba6dd57372fdfbcf3"
+    },
+    {
+      "path": "assets/fonts/static/Quicksand-Regular.ttf",
+      "sha1": "cdc2aeb5b7ce2fdf2f5c9dbaede08600ed6a31c9"
+    },
+    {
+      "path": "assets/fonts/static/Quicksand-SemiBold.ttf",
+      "sha1": "4e8126fe5a7bd617213e8a1e8f9b44c713aad591"
+    },
+    {
+      "path": "assets/fonts/ubuntu-bold-italic.ttf",
+      "sha1": "695d5ea3b73458a03b6697a9a8654b6c128093b9"
+    },
+    {
+      "path": "assets/fonts/ubuntu-bold.ttf",
+      "sha1": "21256042205248084e804e65293580a199cfafd7"
+    },
+    {
+      "path": "assets/fonts/ubuntu-italic.ttf",
+      "sha1": "79cb8cb5392000e6b4e3c041a133744a6fb1d8b4"
+    },
+    {
+      "path": "assets/fonts/ubuntu-light-italic.ttf",
+      "sha1": "446fe4bf24579c182d4ba807fdaa00143af847bd"
+    },
+    {
+      "path": "assets/fonts/ubuntu-light.ttf",
+      "sha1": "074c35f3bd78b842c720937efcbd589e59347e7d"
+    },
+    {
+      "path": "assets/fonts/ubuntu-medium-italic.ttf",
+      "sha1": "ada83ee6e6f9446c750bb5270a90b270b7500e66"
+    },
+    {
+      "path": "assets/fonts/ubuntu-medium.ttf",
+      "sha1": "292e731286129cdc42e9af1b53ae898e465181dc"
+    },
+    {
+      "path": "assets/fonts/ubuntu.ttf",
+      "sha1": "609cf7e8b9a4da1be03366dc8d275ed73659cd47"
+    },
+    {
+      "path": "assets/images/atrom-logo.png",
+      "sha1": "138d4d6728c8d6e96bdd1348918b3fbde4e0d38f"
+    },
+    {
+      "path": "assets/images/bg.png",
+      "sha1": "fe07bba4ade7510a5a2d1c9c3a13d97a6da27359"
+    },
+    {
+      "path": "assets/images/bitcoin.png",
+      "sha1": "bc03a270c8151dc3818cefdb00ee72d5162b8671"
+    },
+    {
+      "path": "assets/images/cardbg.png",
+      "sha1": "a1675ebd83e517bc786076c2aa4c30732766263c"
+    },
+    {
+      "path": "assets/images/etc.png",
+      "sha1": "9d1fe61aa72fbfd0c7451685f245b8fbcd8437fe"
+    },
+    {
+      "path": "assets/images/ethereum.png",
+      "sha1": "9d1fe61aa72fbfd0c7451685f245b8fbcd8437fe"
+    },
+    {
+      "path": "assets/images/group.png",
+      "sha1": "048538abc29871b36809f41e1e9b8199aa2d38e4"
+    },
+    {
+      "path": "assets/images/icon.png",
+      "sha1": "048538abc29871b36809f41e1e9b8199aa2d38e4"
+    },
+    {
+      "path": "assets/images/logo.png",
+      "sha1": "048538abc29871b36809f41e1e9b8199aa2d38e4"
+    },
+    {
+      "path": "assets/images/profile.png",
+      "sha1": "776bfd9bdc6986ee97cd957485dc382d632b0f8e"
+    },
+    {
+      "path": "assets/images/robot-dev.png",
+      "sha1": "0df24928740f6620be61b373b2de2dca9ba641a6"
+    },
+    {
+      "path": "assets/images/robot-prod.png",
+      "sha1": "50e9be1d1da12e4ed28a0e1cb11010d8433b7295"
+    },
+    {
+      "path": "assets/images/splash.png",
+      "sha1": "5a767ed9c9901f93189108281f3148f6e56cb42c"
+    },
+    {
+      "path": "assets/images/splashbox.png",
+      "sha1": "f377624fb3775a33373b091d6e5e0f06baa449e1"
+    },
+    {
+      "path": "assets/images/transparent.png",
+      "sha1": "1e3cd8ef42cb1a4b94e796e756b8cdd6f74fe908"
+    },
+    {
+      "path": "assets/images/vault-animate.mp4",
+      "sha1": "c6d084aad039e546b48b694eb9e7568ed52a032f"
+    },
+    {
+      "path": "assets/images/vault.png",
+      "sha1": "7d706378a3b36d08eab0986863bc351ad656786e"
+    }
+  ]
+}
