@@ -1,0 +1,66 @@
+import React from 'react'
+import { StatusBar, TouchableOpacity, TextInput, ScrollView, Image, ImageBackground } from 'react-native'
+import AsyncStorage from '@react-native-community/async-storage'
+import { Container, Content, Icon, Text, View } from 'native-base'
+
+import styles from './styles'
+import Header from '@component/Header'
+import { navigate } from '@utility/navigation'
+import theme from '@theme/styles'
+import Languages from '@config/language'
+import { setLocale, __ } from '@utility/translation'
+
+export default class extends React.Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {
+      isDisabled: false,
+      isOpen: false,
+      language: 'en',
+    }
+  }
+  render() {
+    return (
+      <Container style={theme.layoutFx}>
+        <StatusBar backgroundColor='rgba(16, 16, 19, 1)' animated barStyle='light-content' />
+        <Content contentContainerStyle={styles.layoutDefault}>
+        <Image source={{ uri: 'https://images.pexels.com/photos/36012/pexels-photo.jpg?cs=srgb&dl=architecture-eiffel-tower-foggy-36012.jpg&fm=jpg' }} style={styles.bgImgMain} />
+        <View style={styles.bgCover} />
+        <View style={styles.navBar}>
+          <TouchableOpacity onPress={() => {
+            navigate('PublicSignIn')
+          }}>
+              <Icon name='keyboard-arrow-left' type='MaterialIcons' style={styles.navLeftIcon} />
+          </TouchableOpacity>
+        </View>
+        <View style={styles.otpContent}>
+          <View style={styles.otpContentItem}>
+            <Text style={styles.otpTitle}>{__('Enter 4-digit')} </Text>
+            <Text style={styles.otpTitle}>{__('Recovery code')}</Text>
+            <Text style={styles.otpdesc}>{__('The recovery code was sent your\nregistered mobile number,\nPlease enter the code:')}</Text>
+          </View>
+          <View style={styles.otpLayout}>
+            <View style={styles.otpRow}>
+              <TextInput keyboardType={'numeric'} placeholderTextColor={'rgba(255,255,255,1)'}
+                placeholder='' style={styles.formInput} />
+              <TextInput keyboardType={'numeric'} placeholderTextColor={'rgba(255,255,255,1)'}
+                placeholder='' style={styles.formInput} />
+              <TextInput keyboardType={'numeric'} placeholderTextColor={'rgba(255,255,255,1)'}
+                placeholder='' style={styles.formInput} />
+              <TextInput keyboardType={'numeric'} placeholderTextColor={'rgba(255,255,255,1)'}
+                placeholder='' style={styles.formInput} />
+            </View>
+            <TouchableOpacity style={styles.verifyBtn} onPress={() => {
+              navigate('PublicRegisterSuccess')
+            }}>
+              <Text style={styles.verifyBtnText}>{__('Verify')}</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+
+      </Content>
+      </Container>
+    )
+  }
+}

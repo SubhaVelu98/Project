@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d188525-8fa7-4ada-bc24-5c5370f4fcb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/_BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/debug/java/com/sampleproject/ReactNativeFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/java/com/sampleproject/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/java/com/sampleproject/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject.xcodeproj/xcshareddata/xcschemes/SampleProject.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProject/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProjectTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/ios/SampleProjectTests/SampleProjectTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../SampleProject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.buckconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.flowconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/.watchmanconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/__tests__/App-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/actions/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/actions/crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/actions/wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/BUCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/build_defs.bzl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/SIL Open Font License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/atrom-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/cardbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/etc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/ethereum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/quicksand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/robot-dev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/robot-prod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/specimenposter_4967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/splashbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/transparent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/vault-animate.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/custom/vault.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/AntDesign.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Entypo.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/EvilIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Feather.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/FontAwesome.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/FontAwesome5_Brands.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/FontAwesome5_Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/FontAwesome5_Solid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Fontisto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Foundation.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/MaterialCommunityIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/MaterialIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Octicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Quicksand-VariableFont:wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Roboto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Roboto_medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/SimpleLineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/Zocial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/cryptofont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/rubicon-icon-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-bold-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-light-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-medium-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu-medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/assets/fonts/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/java/com/wallet/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/java/com/wallet/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/link-assets-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/Quicksand-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/Quicksand-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/Quicksand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/SIL Open Font License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/cryptofont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/quicksand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/specimenposter_4967.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/static/Quicksand-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/static/Quicksand-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/static/Quicksand-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/static/Quicksand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/static/Quicksand-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-bold-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-light-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-medium-italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu-medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/fonts/ubuntu.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/Rectangle 2420.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/__MACOSX/._Rectangle 2420.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/atrom-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/atrom-logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/blur2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/cardbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/etc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/ethereum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/Dashboard-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/Dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._Dashboard-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._Dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._chat-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._income-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._income-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._income-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/__MACOSX/._income.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/chat-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/income-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/income-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/income-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/footer/income.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/robot-dev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/robot-prod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/splash1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/splashbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/trans2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/vault-animate.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/vault.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/images/white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lockscreen/bitcoin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lockscreen/swipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lockscreen/text-document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/check_animation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/connected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/crazy_loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/fingerprint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/fingerprint_scanner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/loading.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/assets/lottie/onboarding.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/atromg8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/AddressDisplayComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/AddressInputComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/AuthenticateModalComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/BottomSheetComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/CardComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/CoinDisplayComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/CurrencyConversionComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/DeckSwiperComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/DocumentListComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/DoubleLineText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/EmailInputComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/FileInfoComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/FileInfoModalComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/FingerPrintScannerComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/FullButtonComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/IconImageComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/ImageBackgroundComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/InputModalComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/IntroPlayComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/LoginComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/ModalComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/NavigationHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/PasswordInputComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/PinUnlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/ReceiveComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/SendComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/SliderUnlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/TabBarIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/TransactionComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/TransactionListComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/components/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/API.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Mockup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/State.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/constants/Style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/AuthenticationScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/DetailsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/DocumentsScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/HomeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/LoadingScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/ProfileScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/QRScanContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/ReceiveScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/RegisterLoginContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/containers/SendScreenContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/link-assets-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet-tvOS/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet-tvOSTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcodeproj/xcshareddata/xcschemes/wallet-tvOS.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcodeproj/xcshareddata/xcschemes/wallet.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/wallet/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/walletTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/ios/walletTests/walletTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/AppNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/AuthenticationNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/DocumentNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/MainTabNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/NavigationService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/StackNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/navigation/WalletNavigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/react-native.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/CryptoCurrencies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/TempDefaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/Transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/TransactionHistory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/credentials.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/mnemonic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/transactions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/reducers/wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/sagas/document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/sagas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/sagas/transaction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/sagas/wallet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/AuthenticationScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/DetailsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/DocumentsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/LoadingScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/LoginScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/NoInternetScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/ProfileEditScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/ProfileScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/QRScanScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/ReceiveScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/RegisterScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/RemoteSessionScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/SendScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/TokensScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/screens/TransactionsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/selectors/CryptoSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/shim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/store/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/store/initSagas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/utils/compare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/utils/moveToBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/utils/screenSize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/utils/validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/atromg8_react-master/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../atromg8_react-master.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/subathra/.android/avd/Pixel_2_API_28.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1xf9B8q13YGzRZZhxHrhr2ReJhg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AmazonProject/android" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1630735319936" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d188525-8fa7-4ada-bc24-5c5370f4fcb5" name="Default Changelist" comment="" />
+      <created>1630735137746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630735137746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
